@@ -1,1 +1,3 @@
-# study- This includes data science materials.
+# Study
+
+This includes data science materials.
